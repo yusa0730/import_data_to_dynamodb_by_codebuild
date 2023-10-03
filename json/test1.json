@@ -1,0 +1,18 @@
+{
+    "Items": [
+        {
+            "message": {
+                "S": "Test message 3"
+            },
+            "user_id": {
+                "N": "12"
+            },
+            "created_at": {
+                "S": "11111111"
+            },
+            "post_id": {
+                "N": "1003"
+            }
+        }
+    ]
+}
